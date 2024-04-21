@@ -1,0 +1,16 @@
+E:\Study\CNPM\Cuoiki\Karaoke_Management(Mine)\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+E:\Study\CNPM\Cuoiki\Karaoke_Management(Mine)\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+E:\Study\CNPM\Cuoiki\Karaoke_Management(Mine)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+E:\Study\CNPM\Cuoiki\Karaoke_Management(Mine)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+E:\Study\CNPM\Cuoiki\Karaoke_Management(Mine)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+E:\Study\CNPM\Cuoiki\Karaoke_Management(Mine)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+E:\Study\CNPM\Cuoiki\Karaoke_Management(Mine)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+E:\Study\CNPM\Cuoiki\Karaoke_Management(Mine)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+E:\Study\CNPM\Cuoiki\Karaoke_Management(Mine)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+E:\Study\CNPM\Cuoiki\Karaoke_Management(Mine)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+E:\Study\CNPM\Cuoiki\Karaoke_Management(Mine)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+E:\Study\CNPM\Cuoiki\Karaoke_Management(Mine)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+E:\Study\CNPM\Cuoiki\Karaoke_Management(Mine)\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+E:\Study\CNPM\Cuoiki\Karaoke_Management(Mine)\InventoryManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Study\CNPM\Cuoiki\Karaoke_Management(Mine)\InventoryManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Study\CNPM\Cuoiki\Karaoke_Management(Mine)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CopyComplete
